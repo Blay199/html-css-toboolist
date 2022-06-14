@@ -33,7 +33,7 @@ body {
 }
 
 main div {
-    max-width: 500px;
+    max-width: 800px;
     margin: 15px auto;
     background-color: white;
     padding: 20px 40px;
@@ -55,6 +55,34 @@ input {
     background-color: white;
 }
 
+p {
+    margin-bottom: 15px;
+}
+
 ul {
     list-style: none;
+    margin-bottom: 20px;
+}
+
+.check {
+    color:green;
+    border-radius: 50%;
+    border: 2px solid green;
+}
+
+.cross {
+    color: red;
+    border-radius: 50%;
+    border: 2px solid red;
+}
+
+.editorial {
+    background-color: cornflowerblue;
+}
+
+.badge {
+    border-radius: 25px;
+    padding: 7px;
+    font-size: x-small;
+    
 }
