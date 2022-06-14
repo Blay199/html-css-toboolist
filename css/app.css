@@ -38,6 +38,12 @@ main div {
     padding: 20px 40px;
 }
 
-.button {
-    
+input {
+    border-style: none;
+    padding: 4px;
+    border-radius: 5px;
+}
+
+.btn-task {
+    background-color: cornflowerblue;
 }
