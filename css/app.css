@@ -29,6 +29,7 @@ h1 {
 
 body {
     background-color: whitesmoke;
+    font-family: sans-serif;
 }
 
 main div {
@@ -39,11 +40,21 @@ main div {
 }
 
 input {
-    border-style: none;
     padding: 4px;
     border-radius: 5px;
+    margin-bottom: 60px;
 }
 
 .btn-task {
+    border-color: cornflowerblue;
     background-color: cornflowerblue;
+}
+
+.btn-section {
+    border-color: whitesmoke;
+    background-color: white;
+}
+
+ul {
+    list-style: none;
 }
